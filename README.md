@@ -17,7 +17,7 @@ linux下执行accessgoogle.sh即可自动完成hosts文件的生成和替换.
 
 命令用法:
 
-# ./accessgoogle.sh [filepath/urladdress="./googleips.txt"] [max_ip_num=10]
+`#` ./accessgoogle.sh [filepath/urladdress="./googleips.txt"] [max_ip_num=10]
 用filepath或者urladdress更换google ip地址来源,程序会自动提取其中的可用ip,
 搜索到max_ip_num个可用的ip地址后停止测试,并从这些地址中选出访问最快的生成hosts文件,默认值为10
 
