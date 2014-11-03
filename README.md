@@ -31,5 +31,5 @@ windows位置:C:\WINDOWS\system32\drivers\etc,拖入覆盖即可
 注:这种方法不保证持续有效性
 
 
-由于某些特殊原因,这里的googleips.txt文件只提供了10个有效谷歌ip地址`[至2014年11月3日有效]`,如果这里的ip地址均不可用或者愿意提供给作者新的可用google ip地址,欢迎练习本人.邮箱地址:hscaizh@gmail.com.
+由于某些特殊原因,这里的googleips.txt文件只提供了10个有效谷歌ip地址`[至2014年11月3日有效]`,如果这里的ip地址均不可用或者愿意提供给作者新的可用google ip地址,欢迎联系本人.邮箱地址:hscaizh@gmail.com.
 
