@@ -17,7 +17,10 @@ linux下执行accessgoogle.sh即可自动完成hosts文件的生成和替换.
 
 命令用法:
 
-# ./accessgoogle.sh [filepath/urladdress="./googleips.txt"] 
+```bash
+# ./accessgoogle.sh [filepath/urladdress="./googleips.txt"]
+```
+
 用filepath或者urladdress更换google ip地址来源,程序会自动提取其中的可用ip,
 
 
